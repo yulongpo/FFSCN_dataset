@@ -1,0 +1,4 @@
+ 1):	mod_type:  GMSK	Fc:  693564	Bw:   16817	SNR:6.11	Time:( [0.00000,0.20000] )
+ 2):	mod_type: 16QAM	Fc: 1689593	Bw:   11621	SNR:1.23	Time:( [0.03700,0.19676] )
+ 3):	mod_type:  OFDM	Fc: 2755386	Bw:   53304	SNR:3.39	Time:( [0.06800,0.20000] )
+ 4):	mod_type: 16QAM	Fc: 2834479	Bw:   20899	SNR:10.02	Time:( [0.00000,0.20000] )

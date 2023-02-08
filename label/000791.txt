@@ -1,0 +1,6 @@
+ 1):	mod_type:  GMSK	Fc:  762201	Bw:   48497	SNR:9.13	Time:( [0.00000,0.20000] )
+ 2):	mod_type:  GMSK	Fc: 1153064	Bw:    6122	SNR:11.00	Time:( [0.01600,0.07730] [0.13030,0.20000] )
+ 3):	mod_type:  GMSK	Fc: 1578062	Bw:   25611	SNR:7.35	Time:( [0.00000,0.20000] )
+ 4):	mod_type:  2FSK	Fc: 2006357	Bw:   11396	SNR:11.88	Time:( [0.00000,0.20000] )
+ 5):	mod_type:  BPSK	Fc: 2095441	Bw:   79009	SNR:12.05	Time:( [0.00000,0.20000] )
+ 6):	mod_type:  GMSK	Fc: 2925376	Bw:   26073	SNR:1.03	Time:( [0.00000,0.20000] )

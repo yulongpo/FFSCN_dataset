@@ -1,0 +1,4 @@
+ 1):	mod_type:  GMSK	Fc:  527269	Bw:   53636	SNR:12.26	Time:( [0.07500,0.17713] )
+ 2):	mod_type:  OFDM	Fc: 1127502	Bw:   84600	SNR:6.51	Time:( [0.00000,0.20000] )
+ 3):	mod_type:  GMSK	Fc: 1768407	Bw:   84762	SNR:6.87	Time:( [0.00000,0.20000] )
+ 4):	mod_type:  BPSK	Fc: 2678237	Bw:   37859	SNR:2.48	Time:( [0.07300,0.14827] )

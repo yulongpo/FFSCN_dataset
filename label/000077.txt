@@ -1,0 +1,7 @@
+ 1):	mod_type:  OFDM	Fc:  584954	Bw:   36225	SNR:-2.90	Time:( [0.00000,0.20000] )
+ 2):	mod_type:  OFDM	Fc:  754058	Bw:   13803	SNR:6.78	Time:( [0.02700,0.20000] )
+ 3):	mod_type:  OFDM	Fc: 1397998	Bw:   13607	SNR:-3.24	Time:( [0.00000,0.20000] )
+ 4):	mod_type:  GMSK	Fc: 1499304	Bw:    5464	SNR:-1.14	Time:( [0.00000,0.20000] )
+ 5):	mod_type:  OFDM	Fc: 2002174	Bw:   75319	SNR:6.26	Time:( [0.00000,0.20000] )
+ 6):	mod_type:  BPSK	Fc: 2317454	Bw:  115971	SNR:-0.64	Time:( [0.01300,0.10415] [0.13215,0.20000] )
+ 7):	mod_type: 16QAM	Fc: 2690135	Bw:   13643	SNR:5.83	Time:( [0.00000,0.20000] )

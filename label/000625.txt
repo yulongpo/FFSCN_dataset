@@ -1,0 +1,4 @@
+ 1):	mod_type:  BPSK	Fc:  693454	Bw:   83237	SNR:-0.06	Time:( [0.07700,0.15116] )
+ 2):	mod_type:  BPSK	Fc: 1144740	Bw:  102398	SNR:-2.64	Time:( [0.00000,0.20000] )
+ 3):	mod_type:  2FSK	Fc: 1263616	Bw:   34833	SNR:0.41	Time:( [0.00000,0.20000] )
+ 4):	mod_type:  2FSK	Fc: 2124760	Bw:   36412	SNR:-2.52	Time:( [0.00000,0.20000] )

@@ -1,0 +1,8 @@
+ 1):	mod_type: 16QAM	Fc:  217001	Bw:   53284	SNR:10.80	Time:( [0.00000,0.20000] )
+ 2):	mod_type: 16QAM	Fc:  403916	Bw:   89819	SNR:13.62	Time:( [0.03700,0.15220] )
+ 3):	mod_type:  GMSK	Fc:  892338	Bw:   47786	SNR:11.00	Time:( [0.00000,0.20000] )
+ 4):	mod_type:  GMSK	Fc: 1454643	Bw:   36581	SNR:12.51	Time:( [0.00000,0.20000] )
+ 5):	mod_type:  BPSK	Fc: 1825497	Bw:   58007	SNR:12.34	Time:( [0.00000,0.20000] )
+ 6):	mod_type:  OFDM	Fc: 2170347	Bw:   17110	SNR:-0.99	Time:( [0.03100,0.20000] )
+ 7):	mod_type:  BPSK	Fc: 2462080	Bw:   51027	SNR:9.56	Time:( [0.02300,0.08221] [0.14421,0.20000] )
+ 8):	mod_type:  OFDM	Fc: 3054419	Bw:   65161	SNR:12.14	Time:( [0.04300,0.20000] )

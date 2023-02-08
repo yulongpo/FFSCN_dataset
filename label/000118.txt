@@ -1,0 +1,6 @@
+ 1):	mod_type:  2FSK	Fc:  335176	Bw:   22314	SNR:3.88	Time:( [0.06200,0.19316] )
+ 2):	mod_type:  GMSK	Fc:  487002	Bw:   43744	SNR:0.21	Time:( [0.00000,0.20000] )
+ 3):	mod_type:  BPSK	Fc:  816343	Bw:   23470	SNR:0.32	Time:( [0.00000,0.20000] )
+ 4):	mod_type:  BPSK	Fc:  880710	Bw:   15873	SNR:7.24	Time:( [0.00000,0.20000] )
+ 5):	mod_type: 16QAM	Fc: 2876480	Bw:   72658	SNR:10.92	Time:( [0.06400,0.20000] )
+ 6):	mod_type:  GMSK	Fc: 3155265	Bw:    3814	SNR:7.33	Time:( [0.00000,0.20000] )
